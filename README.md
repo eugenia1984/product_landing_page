@@ -3,9 +3,11 @@
 <p> I added a video </p>
 <p> And the footer can be linked to a contact information and terms and conditions</p>
 
+## Content 🚀
+_This Project only has one master branch, it was a small project so it did not need more branches._
+
 ## Builded with 🛠️
 _**HTML 5** and **CSS3**_
-
 
 ## Demo 📦
 _If you want to see how this project was, you can do it from :_ 
