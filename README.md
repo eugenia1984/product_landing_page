@@ -7,7 +7,8 @@
 _**HTML 5** and **CSS3**_
 
 
-## You can see it here: 
+## Demo 📦
+_If you want to see how this project was, you can do it from :_ 
 :arrow_right: **https://codepen.io/eugenia1984/pen/RwGbBpw**
 
 ## Please: 🎁
@@ -16,7 +17,8 @@ _**HTML 5** and **CSS3**_
 * Invite a beer 🍺 or a coffee ☕  to someone of the team. 
 * Thanks a lot 🤓.
 
-
 ---
-⌨️ with ❤️ by [María Eugeia Costa](https://github.com/eugenia1984) 😊
+## Notes
+_I appreciate your interest in this project_
+⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊
 
