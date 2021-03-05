@@ -1,4 +1,4 @@
-# product_landing_page
+# Product landing page
 <p>After the FreeCodeCamp Course of Responsive Web Design I created a Product Landing Page with different sections, such as: features, how it´s works ans prices.</p>
 <p> I added a video </p>
 <p> And the footer can be linked to a contact information and terms and conditions</p>
@@ -7,10 +7,10 @@
 _This Project only has one master branch, it was a small project so it did not need more branches._
 
 ## Builded with 🛠️
-_**HTML 5** and **CSS3**_
+**HTML 5** and **CSS3**
 
 ## Demo 📦
-_If you want to see how this project was, you can do it from :_ 
+If you want to see how this project was, you can do it from : 
 :arrow_right: **https://cursoutneuge20.000webhostapp.com/productlandingpage/index.html**
 
 ## Please: 🎁
